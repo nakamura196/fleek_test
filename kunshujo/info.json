@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "kunshujo",
+  "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo",
   "height": 10830,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
