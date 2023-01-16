@@ -1,40 +1,45 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/manifest.json",
+    "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg",
     "@type": "sc:Manifest",
-    "attribution": "",
-    "description": "はじめてのIIIFとIPFS",
-    "label": "はじめてのIIIFとIPFS",
-    "metadata": [],
+    "attribution": "sample",
+    "description": "Manifest file of My first IIIF and IPFS",
+    "label": "My first IIIF and IPFS",
+    "metadata": [
+        {
+            "label": "keyword",
+            "value": "ipfs"
+        }
+    ],
     "sequences": [
         {
-            "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/manifest.json/sequence/normal",
+            "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/manifest.json/canvas/p1",
+                    "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg/canvas/p1",
                     "@type": "sc:Canvas",
-                    "height": 576,
+                    "height": 289,
                     "images": [
                         {
-                            "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/manifest.json/annotation/p1-image",
+                            "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/manifest.json/canvas/p1",
+                            "on": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg/canvas/p1",
                             "resource": {
-                                "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/ns.png",
+                                "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "height": 576,
-                                "width": 576
+                                "height": 289,
+                                "width": 400
                             }
                         }
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://ipfs.io/ipfs/QmUWNt7eovac8vrCJYQvk7Ttd5AQUzwqjauUaCrKpc8qFT/ns.png"
+                        "@id": "https://ipfs.io/ipfs/QmbZekG5x834rwGKVZntBefkbNfL5auH171m4c26TZmCAo/kunshujo_400.jpg"
                     },
-                    "width": 576
+                    "width": 400
                 }
             ]
         }
