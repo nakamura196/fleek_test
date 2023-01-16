@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo",
+    "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo",
     "@type": "sc:Manifest",
     "attribution": "sample",
     "description": "Manifest file of My first IIIF and IPFS",
@@ -13,28 +13,28 @@
     ],
     "sequences": [
         {
-            "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/sequence/normal",
+            "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/canvas/p1",
+                    "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/canvas/p1",
                     "@type": "sc:Canvas",
                     "height": 10830,
                     "images": [
                         {
-                            "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/annotation/p1-image",
+                            "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/annotation/p1-image",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
-                            "on": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/canvas/p1",
+                            "on": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/canvas/p1",
                             "resource": {
-                                "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/full/469,/0/default.jpg",
+                                "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/full/469,/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "height": 10830,
                                 "width": 15000,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo",
+                                    "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo",
                                     "profile": "http://iiif.io/api/image/2/level0.json",
                                     "width": 15000,
                                     "height": 10830
@@ -44,7 +44,7 @@
                     ],
                     "label": "[1]",
                     "thumbnail": {
-                        "@id": "https://ipfs.io/ipfs/QmTqasmb6U5eUgzQM4h5EHPDGnU4sfpaws22fZyPbjtWgY/kunshujo/full/469,/0/default.jpg"
+                        "@id": "https://ipfs.io/ipfs/QmNRd6ugXKX92TpT4tWQn48rACXadBDJGbijo4Ksj7mFk2/kunshujo/full/469,/0/default.jpg"
                     },
                     "width": 15000
                 }
